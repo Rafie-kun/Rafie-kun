@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&fontSize=54&height=90&width=730&text=Welcome%20to%20WHITE%20SPACE" alt="Welcome to WHITE SPACE" />
+  <img src="https://www.spriters-resource.com/media/assets/145/148210.png" alt="OMORI" width="200" />
 </p>
 
+<h1 align="center">Welcome to WHITE SPACE</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&width=505&height=44&lines=Waiting+for+something+to+happen...;DRINKING+RED+BULL+TO+SUPPORT+MAX" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=505&height=44&lines=Waiting+for+something+to+happen...;DRINKING+RED+BULL+TO+SUPPORT+MAX" alt="Typing headline" />
 </p>
 
 ---
@@ -47,9 +49,9 @@ interests:
 ### Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/rafie_kun_simp"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://rafie-kun-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:thegamekiller249@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/rafie_kun_simp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://rafie-kun-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:thegamekiller249@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -57,23 +59,23 @@ interests:
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafie-kun&show_icons=true&theme=transparent&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&bg_color=00000000&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafie-kun&show_icons=true&theme=tokyonight&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true&bg_color=00000000&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie-kun&layout=compact&theme=transparent&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&bg_color=00000000&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie-kun&layout=compact&theme=tokyonight&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true&bg_color=00000000&langs_count=8" />
 </p>
 
 ---
 
 ### Contribution Graph
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafie-kun&bg_color=00000000&color=000000&line=000000&point=333333&area=true&hide_border=true)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafie-kun&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=C9D1D9&area=true&hide_border=true)
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
