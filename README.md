@@ -48,3 +48,9 @@ interests:
 <a href="https://instagram.com/rafie_kun_simp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://rafie-kun-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:thegamekiller249@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+---
+
+### Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafie-kun&bg_color=0D1117&color=15e85b&line=15e85b&point=FFFFFF&area=true&area_color=15e85b&hide_border=true" width="100%" />
