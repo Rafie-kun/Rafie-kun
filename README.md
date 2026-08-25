@@ -1,7 +1,9 @@
-# Hey [![](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png)](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png) I'm Rafie [![](https://komarev.com/ghpvc/?username=Rafie-kun&label=views&color=2ea043&style=flat-square)](https://github.com/Rafie-kun)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&fontSize=54&height=90&width=730&text=Welcome%20to%20WHITE%20SPACE" alt="Welcome to WHITE SPACE" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=A371F7&center=true&vCenter=true&width=505&height=44&lines=I'm+just+playing+minecraft;DRINKING+RED+BULL+TO+SUPPORT+MAX" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&width=505&height=44&lines=Waiting+for+something+to+happen...;DRINKING+RED+BULL+TO+SUPPORT+MAX" alt="Typing headline" />
 </p>
 
 ---
@@ -12,22 +14,23 @@
 name:        Rafie
 username:    Rafie-kun
 location:    Earth
-languages:   English, Indonesian
+languages:   English
 
 projects:
   - Edu-Browser-Extension
   - CraftEconomy
   - automaton
   - luatools-fixer
+  - omori-whitespace
 
 env:
   os:   Windows
-  ide:  Visual Studio Code
+  ide:  Zed · Visual Studio Code
 
 interests:
   - Minecraft
   - Web Development
-  - AI & Automation
+  - Data Analytics
   - Red Bull enthusiast 🐂
 ```
 
@@ -36,7 +39,7 @@ interests:
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skill-icons.dev/icons?i=java,python,js,ts,react,nextjs,vite,tailwind,mysql,postgresql,sqlite,docker,git,github,gitlab,vscode,linux,firebase,gcp,cloudflare,vercel,aws,figma&theme=dark&perline=12" />
+  <img src="https://skill-icons.dev/icons?i=typescript,java,javascript,html,css,cpp,vite,sqlite,vercel,docker,git,github,vscode,zed,linux,firebase,tailwind,react,nextjs,figma&theme=dark&perline=10" />
 </p>
 
 ---
@@ -44,9 +47,9 @@ interests:
 ### Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/rafie_kun_simp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://rafie-kun-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:thegamekiller249@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/rafie_kun_simp"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://rafie-kun-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:thegamekiller249@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -54,27 +57,25 @@ interests:
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafie-kun&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafie-kun&show_icons=true&theme=transparent&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&bg_color=00000000&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie-kun&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie-kun&layout=compact&theme=transparent&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&bg_color=00000000&langs_count=8" />
 </p>
 
 ---
 
 ### Contribution Graph
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafie-kun&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafie-kun&bg_color=00000000&color=000000&line=000000&point=333333&area=true&hide_border=true)
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </p>
 
 ---
-
-![Breakout Game](https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg)
 
 *⭐️ From [Rafie-kun](https://github.com/Rafie-kun)*
