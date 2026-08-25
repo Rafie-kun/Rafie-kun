@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.spriters-resource.com/media/assets/145/148210.png" alt="OMORI" width="200" />
+  <img src="https://static.wikia.nocookie.net/omori/images/4/41/Omori_Fullbody_Profile.png/revision/latest?cb=20221031042228" alt="OMORI" width="180" />
 </p>
 
 <h1 align="center">Welcome to WHITE SPACE</h1>
