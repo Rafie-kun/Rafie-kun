@@ -51,12 +51,6 @@ interests:
 
 ---
 
-### Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafie-kun&bg_color=0D1117&color=15e85b&line=15e85b&point=FFFFFF&area=true&area_color=15e85b&hide_border=true" width="100%" />
-
----
-
 <picture>
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
 </picture>
