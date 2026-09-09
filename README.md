@@ -25,7 +25,7 @@ projects:
   - omori-whitespace
 
 env:
-  os:   Windows
+  os:   CachyOS,Fedora,Windows
   ide:  Zed · Visual Studio Code
 
 interests:
