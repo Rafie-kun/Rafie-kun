@@ -1,76 +1,147 @@
-<h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="24px" width="24px"> I'm Rafie <img src="https://komarev.com/ghpvc/?username=Rafie-kun&label=views&color=4581D6&style=flat-square" align="right" /></h1>
+<div align="center">
 
-<sub>@Rafie-kun</sub>
+<img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/gui/title/minecraft.png" width="480" alt="Minecraft" />
 
-<br>
+```text
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║     █████ █████ █████ █████ █████       █   █ █   █ █   █     ║
+║     █   █ █   █ █       █   █           █  █  █   █ ██  █     ║
+║     █████ █████ █████   █   █████ █████ ███   █   █ █ █ █     ║
+║     █  █  █   █ █       █   █           █  █  █   █ █  ██     ║
+║     █   █ █   █ █     █████ █████       █   █ █████ █   █     ║
+║                                                               ║
+║             * Now with real Minecraft textures! *             ║
+║                                                               ║
+║          ╔═════════════════════════════════════════╗          ║
+║          ║              Singleplayer               ║          ║
+║          ╚═════════════════════════════════════════╝          ║
+║                                                               ║
+║          ╔═════════════════════════════════════════╗          ║
+║          ║               Multiplayer               ║          ║
+║          ╚═════════════════════════════════════════╝          ║
+║                                                               ║
+║          ╔═════════════════════════════════════════╗          ║
+║          ║               Options...                ║          ║
+║          ╚═════════════════════════════════════════╝          ║
+║                                                               ║
+║          ╔═════════════════════════════════════════╗          ║
+║          ║                Quit Game                ║          ║
+║          ╚═════════════════════════════════════════╝          ║
+║                                                               ║
+║ Minecraft 1.21.4                            Rafie-kun Edition ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://static.wikia.nocookie.net/omori/images/4/41/Omori_Fullbody_Profile.png/revision/latest?cb=20221031042228" width="180" align="right" />
+[**▶ Singleplayer**](#user-content-player-info) · [**▶ Multiplayer**](#user-content-multiplayer) · [**▶ Options...**](#user-content-debug) · [**▶ Quit Game**](#user-content-game-over)
 
-<br>
+</div>
 
 ---
+<a id="player-info"></a>
 
-### About
+## <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/name_tag.png" width="22" alt="name tag" /> Player Info
 
-```yaml
-name:        Rafie
-location:    Earth
-languages:   English
+```text
+╔ Player ═════════════════════════════════════════════════════╗
+║  Name          Rafie-kun (“Rafie”)                          ║
+║  IGN           Rafie                                        ║
+║  Location      Earth — Overworld                            ║
+║  OS            CachyOS · Fedora · Windows                   ║
+║  Editor        Zed · Visual Studio Code                     ║
+║  Repos         20 crafted · 4 followers                     ║
+║  Buffs         Speed II · Haste II · Red Bull (0:45)        ║
+╚═════════════════════════════════════════════════════════════╝
+```
 
-projects:
-  - Edu-Browser-Extension
-  - CraftEconomy
-  - automaton
-  - luatools-fixer
-  - omori-whitespace
+<div align="center">
 
-env:
-  os:   CachyOS,Fedora,Windows
-  ide:  Zed · Visual Studio Code
+<img src="https://avatars.githubusercontent.com/u/107275895" width="120" alt="Rafie-kun player head" />
 
-interests:
-  - Minecraft
-  - Web Development
-  - Data Analytics
-  - Red Bull enthusiast
+<sub><b>Player Head</b> · <a href="https://github.com/Rafie-kun">github.com/Rafie-kun</a></sub>
+
+</div>
+
+---
+<a id="worlds"></a>
+
+## <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/filled_map.png" width="22" alt="map" /> Select World
+
+| ▶ | Icon | World | Mode | Last commit |
+|:-:|:-:|---|---|---|
+| 1 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/experience_bottle.png" width="24" alt="world icon" /> | **[rafie-kun.scolarship-app](https://github.com/Rafie-kun/rafie-kun.scolarship-app)** | Survival · TypeScript | Oct 26, 2026 |
+| 2 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/redstone_torch.png" width="24" alt="world icon" /> | **[automaton](https://github.com/Rafie-kun/automaton)** | Imported world · TypeScript | Oct 24, 2026 |
+| 3 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/bow.png" width="24" alt="world icon" /> | **[ninfer](https://github.com/Rafie-kun/ninfer)** | Imported world · C++ | Sep 20, 2026 |
+| 4 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/gold_ingot.png" width="24" alt="world icon" /> | **[CraftEconomy](https://github.com/Rafie-kun/CraftEconomy)** | Survival · Java | Sep 1, 2026 |
+| 5 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/paper.png" width="24" alt="world icon" /> | **[omori-whitespace](https://github.com/Rafie-kun/omori-whitespace)** | Survival · JavaScript | Aug 23, 2026 |
+| 6 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/painting.png" width="24" alt="world icon" /> | **[anime-engine](https://github.com/Rafie-kun/anime-engine)** | Imported world · Data | Aug 9, 2026 |
+| 7 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/book.png" width="24" alt="world icon" /> | **[Edu-Browser-Extension](https://github.com/Rafie-kun/Edu-Browser-Extension)** | Survival · HTML | Jun 18, 2026 |
+| 8 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/minecart.png" width="24" alt="world icon" /> | **[f1-dash](https://github.com/Rafie-kun/f1-dash)** | Imported world · Data | Jun 14, 2026 |
+| 9 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/lever.png" width="24" alt="world icon" /> | **[luatools-fixer](https://github.com/Rafie-kun/luatools-fixer)** | Survival · PowerShell | Jun 12, 2026 |
+
+<sub>Live data from GitHub — imported worlds are forks, credit to the original builders.</sub>
+
+---
+<a id="advancements"></a>
+
+## <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/experience_bottle.png" width="22" alt="experience bottle" /> Advancement Made!
+
+| 🏆 | Advancement | How to unlock |
+|:-:|---|---|
+| <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="40" alt="Quickdraw" /> | **Quickdraw** | Close an issue before the creeper hisses. |
+| <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="40" alt="Pair Extraordinaire" /> | **Pair Extraordinaire** | Craft something with a co-builder. |
+| <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="40" alt="Pull Shark" /> | **Pull Shark** | Merge enough PRs to bite. |
+| <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="40" alt="YOLO" /> | **YOLO** | Merge without looking. |
+
+---
+<a id="debug"></a>
+
+## <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/compass_00.png" width="22" alt="compass" /> Debug Screen · F3
+
+```text
+Minecraft 1.21.4 (Rafie-kun)          OS: CachyOS, Fedora, Windows
+C: 20/20 repos, D: 4 followers        Editor: Zed, VS Code
+E: 0/0 creepers spotted               Lang: TypeScript, Java, C++
+XYZ: 0.000 / 64.000 / 0.000           Biome: earth:overworld
+Facing: south (Towards positive Z)
 ```
 
 ---
+<a id="multiplayer"></a>
 
-### Languages & Tools
+## <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/minecart.png" width="22" alt="minecart" /> Multiplayer
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+| Icon | Server | MOTD | Ping |
+|:-:|---|---|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/filled_map.png" width="32" alt="map" /> | **[rafie-kun.github.io](https://rafie-kun-github-io.vercel.app/)** | “Welcome to the server” | 12 ms |
+| <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/painting.png" width="32" alt="painting" /> | **[@rafie_kun_simp](https://instagram.com/rafie_kun_simp)** | “screenshots or it didn’t happen” | 34 ms |
+| <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/paper.png" width="32" alt="paper" /> | **[reef@rafiekunsimp.is-a.dev](mailto:reef@rafiekunsimp.is-a.dev)** | “send a letter to spawn” | 8 ms |
+| <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/grass_block_side.png" width="32" alt="grass block" /> | **[github.com/Rafie-kun](https://github.com/Rafie-kun)** | “spawn chunk · 20 worlds loaded” | 1 ms |
+
+```text
+[12:00] <Rafie-kun> anyone up for survival?
+[12:01] <Creeper> sssssssssss
+[12:02] <Rafie-kun> gg
+```
 
 ---
+<a id="game-over"></a>
 
-### Connect With Me
+## <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/totem_of_undying.png" width="22" alt="totem of undying" /> Game Over
 
-<a href="https://instagram.com/rafie_kun_simp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://rafie-kun-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:thegamekiller249@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║                  You Died!                   ║
+║                 Score: 4,096                 ║
+║                                              ║
+║ ╔══════════════════╗    ╔══════════════════╗ ║
+║ ║     Respawn      ║    ║    Title Menu    ║ ║
+║ ╚══════════════════╝    ╚══════════════════╝ ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
----
+[**Respawn**](#top) · [**Title Menu**](#top)
 
-<picture>
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-</picture>
+<sub>☠️ Fan-made profile README — an unofficial, non-affiliated homage to Minecraft. Minecraft textures, item icons and the Minecraft logo are © Mojang AB / Microsoft, used here as a fan tribute. Not affiliated with, endorsed by or sponsored by Mojang or Microsoft. Built block by block by <b>Rafie-kun</b>.</sub>
