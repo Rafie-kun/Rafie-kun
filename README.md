@@ -70,7 +70,7 @@
 | ▶ | Icon | World | Mode | Last commit |
 |:-:|:-:|---|---|---|
 | 1 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/experience_bottle.png" width="24" alt="world icon" /> | **[rafie-kun.scolarship-app](https://github.com/Rafie-kun/rafie-kun.scolarship-app)** | Survival · TypeScript | Oct 26, 2026 |
-| 2 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/redstone_torch.png" width="24" alt="world icon" /> | **[automaton](https://github.com/Rafie-kun/automaton)** | Imported world · TypeScript | Oct 24, 2026 |
+| 2 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/redstone_torch.png" width="24" alt="world icon" /> | **[OpenEdu]([https://github.com/Rafie-kun/automaton](https://github.com/Rafie-kun/openedu))** | Survival · TypeScript | Oct 24, 2026 |
 | 3 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/bow.png" width="24" alt="world icon" /> | **[ninfer](https://github.com/Rafie-kun/ninfer)** | Imported world · C++ | Sep 20, 2026 |
 | 4 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/gold_ingot.png" width="24" alt="world icon" /> | **[CraftEconomy](https://github.com/Rafie-kun/CraftEconomy)** | Survival · Java | Sep 1, 2026 |
 | 5 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/paper.png" width="24" alt="world icon" /> | **[omori-whitespace](https://github.com/Rafie-kun/omori-whitespace)** | Survival · JavaScript | Aug 23, 2026 |
@@ -133,7 +133,7 @@ Facing: south (Towards positive Z)
 ╔══════════════════════════════════════════════╗
 ║                                              ║
 ║                  You Died!                   ║
-║                 Score: 4,096                 ║
+║                 Score: 4,097                 ║
 ║                                              ║
 ║ ╔══════════════════╗    ╔══════════════════╗ ║
 ║ ║     Respawn      ║    ║    Title Menu    ║ ║
