@@ -49,7 +49,7 @@
 ║  Location      Earth — Overworld                            ║
 ║  OS            CachyOS · Fedora · Windows                   ║
 ║  Editor        Zed · Visual Studio Code                     ║
-║  Repos         20 crafted · 4 followers                     ║
+║  Repos         22 crafted · 4 followers                     ║
 ║  Buffs         Speed II · Haste II · Red Bull (0:45)        ║
 ╚═════════════════════════════════════════════════════════════╝
 ```
@@ -69,17 +69,18 @@
 
 | ▶ | Icon | World | Mode | Last commit |
 |:-:|:-:|---|---|---|
-| 1 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/experience_bottle.png" width="24" alt="world icon" /> | **[rafie-kun.scolarship-app](https://github.com/Rafie-kun/rafie-kun.scolarship-app)** | Survival · TypeScript | Oct 26, 2026 |
-| 2 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/redstone_torch.png" width="24" alt="world icon" /> | **[OpenEdu]([https://github.com/Rafie-kun/automaton](https://github.com/Rafie-kun/openedu))** | Survival · TypeScript | Oct 24, 2026 |
+| 1 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/bookshelf.png" width="24" alt="world icon" /> | **[openedu](https://github.com/Rafie-kun/openedu)** | Survival · TypeScript | Nov 6, 2026 |
+| 2 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/experience_bottle.png" width="24" alt="world icon" /> | **[rafie-kun.scolarship-app](https://github.com/Rafie-kun/rafie-kun.scolarship-app)** | Survival · TypeScript | Oct 26, 2026 |
 | 3 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/bow.png" width="24" alt="world icon" /> | **[ninfer](https://github.com/Rafie-kun/ninfer)** | Imported world · C++ | Sep 20, 2026 |
 | 4 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/gold_ingot.png" width="24" alt="world icon" /> | **[CraftEconomy](https://github.com/Rafie-kun/CraftEconomy)** | Survival · Java | Sep 1, 2026 |
-| 5 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/paper.png" width="24" alt="world icon" /> | **[omori-whitespace](https://github.com/Rafie-kun/omori-whitespace)** | Survival · JavaScript | Aug 23, 2026 |
-| 6 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/painting.png" width="24" alt="world icon" /> | **[anime-engine](https://github.com/Rafie-kun/anime-engine)** | Imported world · Data | Aug 9, 2026 |
-| 7 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/book.png" width="24" alt="world icon" /> | **[Edu-Browser-Extension](https://github.com/Rafie-kun/Edu-Browser-Extension)** | Survival · HTML | Jun 18, 2026 |
-| 8 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/minecart.png" width="24" alt="world icon" /> | **[f1-dash](https://github.com/Rafie-kun/f1-dash)** | Imported world · Data | Jun 14, 2026 |
+| 5 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/redstone_torch.png" width="24" alt="world icon" /> | **[automaton](https://github.com/Rafie-kun/automaton)** | Imported world · TypeScript | Aug 26, 2026 |
+| 6 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/paper.png" width="24" alt="world icon" /> | **[omori-whitespace](https://github.com/Rafie-kun/omori-whitespace)** | Survival · JavaScript | Aug 23, 2026 |
+| 7 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/painting.png" width="24" alt="world icon" /> | **[anime-engine](https://github.com/Rafie-kun/anime-engine)** | Imported world · Data | Aug 9, 2026 |
+| 8 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/book.png" width="24" alt="world icon" /> | **[Edu-Browser-Extension](https://github.com/Rafie-kun/Edu-Browser-Extension)** | Survival · HTML | Jun 18, 2026 |
 | 9 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/lever.png" width="24" alt="world icon" /> | **[luatools-fixer](https://github.com/Rafie-kun/luatools-fixer)** | Survival · PowerShell | Jun 12, 2026 |
+| 10 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/minecart.png" width="24" alt="world icon" /> | **[f1-dash](https://github.com/Rafie-kun/f1-dash)** | Imported world · Data | Jun 6, 2026 |
 
-<sub>Live data from GitHub — imported worlds are forks, credit to the original builders.</sub>
+<sub>Live data from GitHub — dates are each world's real last commit. Imported worlds are forks, credit to the original builders.</sub>
 
 ---
 <a id="advancements"></a>
@@ -100,7 +101,7 @@
 
 ```text
 Minecraft 1.21.4 (Rafie-kun)          OS: CachyOS, Fedora, Windows
-C: 20/20 repos, D: 4 followers        Editor: Zed, VS Code
+C: 22/22 repos, D: 4 followers        Editor: Zed, VS Code
 E: 0/0 creepers spotted               Lang: TypeScript, Java, C++
 XYZ: 0.000 / 64.000 / 0.000           Biome: earth:overworld
 Facing: south (Towards positive Z)
@@ -116,7 +117,7 @@ Facing: south (Towards positive Z)
 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/filled_map.png" width="32" alt="map" /> | **[rafie-kun.github.io](https://rafie-kun-github-io.vercel.app/)** | “Welcome to the server” | 12 ms |
 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/painting.png" width="32" alt="painting" /> | **[@rafie_kun_simp](https://instagram.com/rafie_kun_simp)** | “screenshots or it didn’t happen” | 34 ms |
 | <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/paper.png" width="32" alt="paper" /> | **[reef@rafiekunsimp.is-a.dev](mailto:reef@rafiekunsimp.is-a.dev)** | “send a letter to spawn” | 8 ms |
-| <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/grass_block_side.png" width="32" alt="grass block" /> | **[github.com/Rafie-kun](https://github.com/Rafie-kun)** | “spawn chunk · 20 worlds loaded” | 1 ms |
+| <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/grass_block_side.png" width="32" alt="grass block" /> | **[github.com/Rafie-kun](https://github.com/Rafie-kun)** | “spawn chunk · 22 worlds loaded” | 1 ms |
 
 ```text
 [12:00] <Rafie-kun> anyone up for survival?
